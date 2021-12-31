@@ -1,0 +1,1 @@
+class GraphDoesNotContainVertexException(message: String): Exception(message)
